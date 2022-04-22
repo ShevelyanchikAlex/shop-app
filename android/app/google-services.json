@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1080405867352",
+    "project_id": "shop-app-2debf",
+    "storage_bucket": "shop-app-2debf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080405867352:android:3273b4f5e18d615c97032d",
+        "android_client_info": {
+          "package_name": "com.bsuir.shop.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080405867352-3veicuqr567a32jhrhtcdtj3c9vdmc67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUhBLrs3uFRJU8Xaq-aUnmqC_eINf1V1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080405867352-3veicuqr567a32jhrhtcdtj3c9vdmc67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
